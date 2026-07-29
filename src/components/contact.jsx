@@ -61,7 +61,7 @@ const Contact = () => {
             </div>
 
             <footer className="mt-10 border-t border-base-300/60 pt-6 text-sm text-base-content/60">
-                <p>© 2026 Demetrio Rojas Poñe. Hecho con React, Tailwind CSS y DaisyUI.</p>
+                <p>© 2026 Demetrio Rojas Poñe.</p>
             </footer>
         </section>
     );

@@ -2,7 +2,7 @@ export const profile = {
   name: 'Demetrio Rojas Poñe',
   headline: 'INGENIERO EN SISTEMAS',
   role: 'Desarrollador Full Stack',
-  location: 'B/Las Palmitas | C/Los Pénocos, Santa Cruz',
+  location: 'Santa Cruz',
   phone: '76672191',
   email: 'demetriorojasp@gmail.com',
   objective:
