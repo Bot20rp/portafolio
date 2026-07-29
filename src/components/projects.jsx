@@ -31,14 +31,14 @@ const Projects = () => {
                                 </span>
                             ))}
                         </div>
-                        <div className="mt-6 flex flex-wrap gap-3">
+                        {/* <div className="mt-6 flex flex-wrap gap-3">
                             <a className="btn btn-outline btn-sm rounded-full" href={project.github}>
                                 <FaGithub /> GitHub
                             </a>
                             <a className="btn btn-primary btn-sm rounded-full" href={project.live}>
                                 Demostración <FaArrowUpRightFromSquare />
                             </a>
-                        </div>
+                        </div> */}
                     </article>
                 ))}
             </div>
