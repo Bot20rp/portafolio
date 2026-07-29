@@ -3,6 +3,7 @@ import SoftAurora from "../efecct/GhostCursor";
 import { FaArrowRight, FaEnvelope, FaGithub, FaLinkedin } from "react-icons/fa6";
 import { profile } from "../data/portfolio";
 import heroImage from "../assets/hero1.jpg";
+import yoSiempre from "../assets/yo.jpeg"
 
 const Hero = () => {
 
@@ -81,7 +82,7 @@ const Hero = () => {
                     <div className="absolute inset-0 rounded-[2rem] bg-gradient-to-br from-info/15 via-transparent to-primary/10 blur-2xl" />
                     <div className="relative overflow-hidden rounded-[2rem] border border-base-300/60 bg-base-200/80 p-4 shadow-xl backdrop-blur-md">
                         <img
-                            src={heroImage}
+                            src={yoSiempre}
                             alt={profile.name}
                             className="h-[460px] w-full rounded-[1.5rem] object-cover object-center"
                         />
