@@ -1,3 +1,5 @@
+import icon from '../assets/_image.jpg'
+
 const Navbar = ({ theme, setTheme }) => {
 
     const menu = [
@@ -41,7 +43,7 @@ const Navbar = ({ theme, setTheme }) => {
                         <div className="w-10 rounded-full ring ring-base-300/60 ring-offset-2 ring-offset-base-100">
                             <img
                                 alt="Demetrio Rojas Poñe"
-                                src="../src/assets/_image.jpg"
+                                src={icon}
                             />
                         </div>
                     </div>
