@@ -16,8 +16,8 @@ export const profile = {
     school: 'Universidad Autónoma Gabriel René Moreno (UAGRM)'
   },
   links: {
-    github: 'https://github.com/',
-    linkedin: 'https://www.linkedin.com/',
+    github: 'https://github.com/Bot20rp',
+    linkedin: 'https://www.linkedin.com/in/demetrio-rojas-po%C3%B1e-923206343/',
     email: 'mailto:demetriorojasp@gmail.com'
   }
 };
