@@ -35,7 +35,7 @@ const Contact = () => {
                     </div>
                 </div>
 
-                <form className="grid gap-4 rounded-[1.75rem] border border-base-300/60 bg-base-200/80 p-6">
+                {/* <form className="grid gap-4 rounded-[1.75rem] border border-base-300/60 bg-base-200/80 p-6">
                     <div className="grid gap-4 md:grid-cols-2">
                         <label className="form-control">
                             <span className="label-text mb-2 text-sm font-medium">Nombre</span>
@@ -57,7 +57,7 @@ const Contact = () => {
                     <button type="button" className="btn btn-primary rounded-full justify-self-start px-6">
                         Enviar mensaje
                     </button>
-                </form>
+                </form> */}
             </div>
 
             <footer className="mt-10 border-t border-base-300/60 pt-6 text-sm text-base-content/60">
